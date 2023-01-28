@@ -1,0 +1,23 @@
+{
+  "name": "deskle",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@pixi/events": "^6.3.1",
+    "firebase": "^9.6.11",
+    "pixi-viewport": "^4.34.4",
+    "pixi.js": "^6.3.0",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.14",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "vite": "^2.9.5"
+  }
+}
